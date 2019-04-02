@@ -1,2 +1,2 @@
 # mini-projects
-basic mini projects in python (for now) 
+ basic basic mini projects in python (for now) 
