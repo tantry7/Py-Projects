@@ -7,11 +7,11 @@ Created on Thu Mar 14 06:20:52 2019
 
 import random 
 def choose():
-    words=['eat','water','computer','love','python','GOD','discipline']
+    words=['eat','water','computer','love','python','GOD','discipline'] #random words given by the user 
     pick=random.choice(words)
 
 def jumbleword(words):
-    "".join(random.sample(word,len(word)))
+    "".join(random.sample(word,len(word)))        #creating a new function to jumble the letter in the word
     return jumble
 
 def play():
@@ -20,7 +20,7 @@ p2 = input('your name')
 pp1 = 0
 pp2 = 0
 t = 0
-while(1):
+while(1):                                        #the loop runs if and only if the user wants to play  
     picked_word:choose()
     qn= jumble(picked_word)
     print qn
