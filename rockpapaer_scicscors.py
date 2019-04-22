@@ -1,7 +1,7 @@
 #rock paper sciscoors with the computer
 import random
 player_wins = 0
-computer_wins = 2
+computer_wins = 0
 
 while player_wins < 2 and compurter_wins < 2:
 	
