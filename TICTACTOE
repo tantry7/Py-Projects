@@ -129,5 +129,5 @@ def lets_play():
 print(lets_play())
 
 # problems: 1.Replay
-           2.player's names
+            2.player's names
 
