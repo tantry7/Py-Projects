@@ -1,3 +1,7 @@
+#created on 19|4|19 lol 
+#author - narayanatantry
+
+
 # print the board
 def play_board(board):
     print("\n"*10)
