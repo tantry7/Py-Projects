@@ -1,4 +1,4 @@
- #created on 31|5|19 
+ #created on 29|1|19 
  #author - narayanatantry
 #basic program to help my famliy doc using whileloop
 print"good morning, welcome to DR achars shop"
