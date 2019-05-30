@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created one(1,23): Wed Mar  6 01:37:26 2019
 
-@author: naray
-"""
 #n=input('input number 1')
 #m=input('input number 2')
 #x=input('the number which counting should start from')
