@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 14 06:20:52 2019
+Created on Mon Feb 11  2019
 
-@author: naray
+@author: narayanatantry
 """
 
 import random 
