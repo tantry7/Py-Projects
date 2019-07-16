@@ -7,7 +7,11 @@ Created on Mon Feb 11  2019
 
 import random 
 def choose():
-    words=['eat','water','computer','love','python','GOD','discipline'] #random words given by the user 
+    words=[]
+    n = input("enter the number of words")
+    for i in range(n):
+        t = input("enter the words \n")
+        words.append(t)
     pick=random.choice(words)
 
 def jumbleword(words):
