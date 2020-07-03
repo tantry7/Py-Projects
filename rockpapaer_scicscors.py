@@ -32,7 +32,7 @@ while player_wins < 2 and compurter_wins < 2:
 		print('player2 WINS')
 		player_wins += 1
 	elif player1 =='paper' and computer =='sciscors':
-		print('computer WINS')
+		print('COMPUTER WINS')
 		computer_wins +=1
 	elif player1 =='paper' and computer =='rock':
 		print('computer WINS')
