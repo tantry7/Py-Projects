@@ -1,10 +1,9 @@
 <h1>
  Python projects
  </h1>
-<h3>
- BASIC PROJECTS</h3>
+<h3><u>BASIC PROJECTS</u></h3>
   <ul>
- <li>uses condition statements,loops and basic functions</li>
+ <li>Uses condition statements, loops and basic functions</li>
  </ul>
  <h3>PROJECTS INCLUDE</h3>
  <ul>
