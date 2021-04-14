@@ -6,12 +6,12 @@
   <ul>
  <li>uses condition statements,loops and basic functions</li>
  </ul>
- <h3>OPEN CV</h3>
+ <h3>PROJECTS INCLUDE</h3>
  <ul>
- <li>Color detection</li>
- <li>Shape detection</li>
- <li>face detection</li>
- <li>Stack images</li>
+ <li>TIC TAC TOE</li>
+ <li>JUMBLED WORDS GUESSER</li>
+ <li>ROCK PAPER SCISSORS</li>
+ <li>NUMBER GUESS GAME</li>
  </ul>
   
  
